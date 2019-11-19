@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTestingDojoUaiTest", "ApiTestingDojoUaiTest\ApiTestingDojoUaiTest.csproj", "{ACB14D32-16EA-4B44-98A0-F3F24DFFD594}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpTestingDojoUai", "RestSharpTestingDojoUai\RestSharpTestingDojoUai.csproj", "{F6420C28-F08D-44C2-A324-72603DEAC045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB14D32-16EA-4B44-98A0-F3F24DFFD594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB14D32-16EA-4B44-98A0-F3F24DFFD594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB14D32-16EA-4B44-98A0-F3F24DFFD594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB14D32-16EA-4B44-98A0-F3F24DFFD594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6420C28-F08D-44C2-A324-72603DEAC045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6420C28-F08D-44C2-A324-72603DEAC045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6420C28-F08D-44C2-A324-72603DEAC045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6420C28-F08D-44C2-A324-72603DEAC045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED586BC6-574F-40B9-9C9F-A9CD464007F9}
+	EndGlobalSection
+EndGlobal
