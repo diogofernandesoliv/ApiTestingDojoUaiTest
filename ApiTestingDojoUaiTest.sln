@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTestingDojoUaiTest", "Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpTestingDojoUai", "RestSharpTestingDojoUai\RestSharpTestingDojoUai.csproj", "{F6420C28-F08D-44C2-A324-72603DEAC045}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apresentação", "Apresentação", "{EA0BFA2C-CAC4-4643-AE3D-7463DA5A2470}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\dougl\Desktop\Automatizando testes de API com RestSharp e C.pptx = ..\..\..\Users\dougl\Desktop\Automatizando testes de API com RestSharp e C.pptx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

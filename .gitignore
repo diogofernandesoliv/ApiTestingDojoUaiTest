@@ -3,3 +3,12 @@
 ################################################################################
 
 *.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.suo
+/packages
+/RestSharpTestingDojoUai/bin/Debug
+/RestSharpTestingDojoUai/obj/Debug
+/ApiTestingDojoUaiTest/bin/Debug
+/ApiTestingDojoUaiTest/obj/Debug
